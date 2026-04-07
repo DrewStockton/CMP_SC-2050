@@ -1,3 +1,10 @@
+/*****************************************************************************
+* CMP_SC 2050
+* Lab 6
+* By Drew Stockton
+* September 5th 2025
+*****************************************************************************/
+#include <stdio.h>
 #include "lab1.h"
 #include <stdio.h>
 int getMedian(int array[], int size, int *result)
